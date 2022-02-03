@@ -1,0 +1,13 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+#status {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+#coco{
+    width: 1500px;
+    height: 400px;
+}
